@@ -46,8 +46,8 @@ The dashboard helps identify high-risk segments and provides insights that can s
 The project uses a star-schema-based data model consisting of:
 
 - `Fact_Loans` – Loan-level transactional data
-- `Dim_Customers` – Customer information
-- `Dim_Purpose` – Loan purpose information
+- `Dim_Customers` – Customer-level information
+- `Dim_Purpose` – Loan purpose reference data
 
 ### Key Relationships
 
@@ -62,7 +62,7 @@ The project uses a star-schema-based data model consisting of:
 |---|---:|
 | Total Loans | 81,999 |
 | Total Loan Amount | $22.27bn |
-| Current Credit Balance | $24.08bn |
+| Total Current Credit Balance | $24.08bn |
 | Average Loan Amount | $308.02K |
 | Average Credit Score | 720 |
 | Delinquency Rate | 45.58% |
@@ -151,7 +151,7 @@ The dashboard was developed using Power BI Desktop and published to Power BI Ser
 
 🔗 **[View Power BI Report](https://app.powerbi.com/groups/me/reports/b672af95-f7be-4e4a-b070-ba5084f7ffbe/ce708692d5c5250083ab?experience=power-bi)**
 
-> Note: The Power BI report requires sign-in because public web embedding is not enabled for this workspace.
+> Note: The Power BI Service report requires sign-in. Dashboard screenshots and the `.pbix` file are provided for portfolio review.
 
 The `.pbix` file is available in the `Power BI` folder.
 
