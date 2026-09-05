@@ -147,7 +147,7 @@ Banking-Loan-Risk-Analysis-PowerBI/
 
 ## 🚀 Power BI Report
 
-The dashboard was developed using Power BI Desktop and published to Power BI Service.
+The dashboard was developed using Power BI Desktop and published to Power BI Service for interactive analysis.
 
 The `.pbix` file is available in the `Power BI` folder.
 
