@@ -141,3 +141,19 @@ Banking-Loan-Risk-Analysis-PowerBI/
 │   └── Banking_Loan_Analysis.pbix
 │
 └── README.md
+
+---
+
+## 🚀 Power BI Report
+
+The dashboard was developed using Power BI Desktop and published to Power BI Service.
+
+The `.pbix` file is available in the `Power BI` folder.
+
+---
+
+## 👩‍💻 Author
+
+**Aysha Rafiya**
+
+Data Analytics | Power BI | SQL | Python
