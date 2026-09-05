@@ -78,7 +78,7 @@ The project uses a star-schema-based data model consisting of:
 - Vacation loans have the highest observed delinquency rate at **57.50%**.
 - Debt Consolidation has the highest number of charged-off loans at **17,918**.
 - Borrowers in the **600–659** and **660–719** credit-score ranges show relatively high delinquency rates.
-- Charged-off loans have a lower average credit score (**710**) than fully paid loans (**724**).
+- Charged-off loans have a lower average credit score (**720**) than fully paid loans (**724**).
 
 > Note: These findings describe associations in the portfolio and should not be interpreted as proof of causation.
 
@@ -86,7 +86,7 @@ The project uses a star-schema-based data model consisting of:
 
 ## 💡 Recommendations
 
-- Review Debt Consolidation loans closely due to their high volume of charged-off loans.
+- Review the Debt Consolidation loans closely due to their high volume of charged-off loans.
 - Strengthen risk assessment for loan purposes with higher delinquency rates.
 - Consider additional credit-risk screening for borrowers in the 600–719 credit-score range.
 - Establish early-warning indicators to proactively identify borrowers at risk of delinquency.
